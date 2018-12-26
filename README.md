@@ -51,3 +51,6 @@ jupyter notebook SageMaker Project.ipynb
 
 ```
 
+Here is my course completion certificate
+
+![alt text](https://github.com/shankar939014/SageMaker-Deployment/blob/master/DLND_Certificate.JPG "Logo Title Text 1")
